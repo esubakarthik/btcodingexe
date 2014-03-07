@@ -1,6 +1,6 @@
 BT coding exercise
 
-The program was writen in Java with JRE 7
+The program was writen in Java with JDK 7
 
 this java program can only be run from command line 
 
