@@ -42,7 +42,9 @@ java Main Jones Winton Smith < surnames.txt
 Output:
 
 Jones:Jonas,Johns,Johnson,Saunas
+
 Winton:Van Damme
+
 Smith:Smith,Smyth,Smythe,Smid,Schmidt
 
 with non matching parameter:
